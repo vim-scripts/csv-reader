@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2108
+
+When you open a .csv file, you can read it more easy, this script make the current column
+highlighting, and you can jump to the field that you want or select the comma or tab as the split symbol.
+[ Some code come from network, and I like to share this with you. Thanks, every body. ]
+
+F9: move to ahead column
+F10: move to next column
+F11:jump to field
+F12: select the split symbol, you can directly push the enter as input comma, or type comma or tab.
